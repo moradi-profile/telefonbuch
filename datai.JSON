@@ -1,14 +1,12 @@
 {
       "Telefonbuch":{
       "Profile1":{
-         "id": "1",
          "bild":"https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-cartoon-color-simple-male-avatar-png-image_1934459.jpg",
          "name":"Alex",
          "beschreibung":"Das bin ich Selbst",
          "nummer":"+49 151 234567"
       },
       "Profile2":{
-         "id": "2",
          "bild":"https://www.svgrepo.com/show/382106/male-avatar-boy-face-man-user-9.svg",
          "name":"Amit",
          "beschreibung":"Das ist mein bruder",
