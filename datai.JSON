@@ -1,21 +1,21 @@
 {
       "Telefonbuch":{
       "Profile":{
-         "id": 1,
+         "id": "1",
          "bild":"https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-cartoon-color-simple-male-avatar-png-image_1934459.jpg",
          "name":"Alex",
          "beschreibung":"Das bin ich Selbst",
          "nummer":"+49 151 234567"
       },
-      "Profile2":{
-         "id": 2,
+      "Profile":{
+         "id": "2",
          "bild":"https://www.svgrepo.com/show/382106/male-avatar-boy-face-man-user-9.svg",
          "name":"Amit",
          "beschreibung":"Das ist mein bruder",
          "nummer":"+49 152 53463"
       },
       "Profile":{
-         "id": 3,
+         "id": "3",
          "bild":"https://png.pngtree.com/png-vector/20220817/ourmid/pngtree-man-avatar-with-circle-frame-vector-ilustration-png-image_6110328.png",
          "name":"Ali",
          "beschreibung":"IT Mitarbeiter",
