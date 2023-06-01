@@ -1,5 +1,5 @@
 {
-      "Telefonbuch":{
+   "Telefonbuch":{
       "Profile1":{
          "bild":"https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-cartoon-color-simple-male-avatar-png-image_1934459.jpg",
          "name":"Alex",
@@ -18,6 +18,5 @@
          "beschreibung":"IT Mitarbeiter",
          "nummer":"670 534 223"
       }
-      }
-      
+   }
 }
